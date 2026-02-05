@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Russia_tank_T90",
+    "id": 1,
+    "path_photo": "dataset_generator/objects_images/T90/"
+  },
+  {
+    "name": "German_tank_Leopard2A7",
+    "id": 2,
+    "path_photo": "dataset_generator/objects_images/Leopard2A7/"
+  },
+  {
+    "name": "China_tank_Type99",
+    "id": 3,
+    "path_photo": "dataset_generator/objects_images/Type99/"
+  },
+  {
+    "name": "Israel_tank_Merkava4",
+    "id": 4,
+    "path_photo": "dataset_generator/objects_images/Merkava4/"
+  },
+  {
+    "name": "USA_truck_M1070",
+    "id": 5,
+    "path_photo": "dataset_generator/objects_images/M1070/"
+  }
+]
